@@ -1,2 +1,2 @@
 # tmhanon.github.io
-This is a simple website for Tristan Hanon, PhD Student in Agricultural and Resource Economics at UC Davis. It is intended to host basic information, including a CV, links to previous work, and links to current projects. 
+I'm Tristan Hanon, an agricultural economist with Dairy Program in the USDA Agricultural Marketing Service. I provide analysis to support the Federal Milk Marketing Order system and work to facilitate the efficient marketing of milk and dairy products. 
