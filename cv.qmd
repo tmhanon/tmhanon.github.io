@@ -1,15 +1,32 @@
 ---
-title: Curriculum Vitae
+title: CV
 ---
 
 ## [Professional Experience]{.smallcaps}
 
-Agricultural Marketing Service, Dairy Program, Economics Division
-    *Agricultural Economist* [*2022 - Present*]{style="float: right"}
+**Agricultural Marketing Service, Dairy Program, Economics Division** <br> *Agricultural Economist* [*2022 - Present*]{style="float: right"}
+
+As an Agricultural Economist in the Economics Division of Dairy Program, provide detailed and thoughtful economic analysis of the markets for milk and dairy products.
+
+-   Provided extensive support to the Federal Milk Marketing Order rulemaking process, including economic analysis and subject matter expertise.
+-   Lead Economics Division modeling efforts, including development and maintenance of the Dairy Program Regional Econometric Model, the Herd Size Model, Milk Production models, and the International Price model.
+-   Develop monthly estimates of milk supply factors and commodity prices for the Dairy Interagency Commodity Estimates Committee, contributing to monthly World Agricultural Supply and Demand Estimates and 10-year USDA Baseline.
+-   Lead support of Commodity Procurement Program by providing economic analysis, market insights, and subject matter expertise to facilitate USDA purchases of dairy products.
+
+**University of California, Davis** <br> *Graduate Student Researcher* [*2017 - 2022*]{style="float: right"}
+
+As a Graduate Student Researcher for Professor Daniel Sumner, analyzed growth in milk production and dairy product exports since Federal Milk Marketing Order reform and developed a model of inter-regional trade in farm milk and dairy products within the U.S.
+
+**Congressional Budget Office** <br> *Assistant Analyst* [*2014 - 2016*]{style="float: right"}
+
+As an Assistant Analyst in the Microeconomic Studies Division, contributed to reports on agricultural policy and energy use. Analyzed the role of reinsurance agreements in the Federal Crop Insurance Program and evaluated options to reduce the cost to the government. Assisted with reports on growing energy use in China, extraction of oil and gas on Federal lands, and government support for development of fuels and energy technologies.
+
 
 ## [Education]{.smallcaps}
 
+**University of California, Davis** [**Davis, CA**]{style="float: right"} <br> *Ph.D. Agricultural and Resource Economics* [*2023*]{style="float: right"} <br> M.S. *Agricultural and Resource Economics* [*2017*]{style="float: right"}
 
+**Washington State University** [**Pullman, WA**]{style="float: right"} <br> *B.S. Economic Sciences* [*2014*]{style="float: right"}
 
 ## [Research]{.smallcaps}
 
