@@ -2,20 +2,27 @@ project:
   type: website
 
 website:
-  title: "tmhanon.github.io"
+  title: "Tristan Hanon"
+  page-footer: "Made with [Quarto](https://quarto.org/), by Tristan Hanon. License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: cv.qmd
+        text: CV
+    right: 
+      - icon: github
+        href: https://github.com/tmhanon
+        target: _blank
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: flatly
+      dark: darkly
     css: styles.css
-    toc: true
+    toc: false
 
 
 
