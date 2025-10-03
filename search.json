@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tristan M. Hanon, Ph.D.",
+    "section": "",
+    "text": "I’m Tristan Hanon, an agricultural economist with Dairy Program in the USDA Agricultural Marketing Service. I provide analysis to support the Federal Milk Marketing Order system and work to facilitate the efficient marketing of milk and dairy products.\nI received my PhD in Agricultural and Resource Economics from UC Davis, where I focused on agricultural policy, international trade, and structural modeling.\nI am deeply interested in understanding the way things works, and strive to view the world through different perspectives in order to understand it better."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Agricultural Marketing Service, Dairy Program, Economics Division  Agricultural Economist 2022 - Present\nAs an Agricultural Economist in the Economics Division of Dairy Program, provide detailed and thoughtful economic analysis of the markets for milk and dairy products.\n\nProvided extensive support to the Federal Milk Marketing Order rulemaking process, including economic analysis and subject matter expertise.\nLead Economics Division modeling efforts, including development and maintenance of the Dairy Program Regional Econometric Model, the Herd Size Model, Milk Production models, and the International Price model.\nDevelop monthly estimates of milk supply factors and commodity prices for the Dairy Interagency Commodity Estimates Committee, contributing to monthly World Agricultural Supply and Demand Estimates and 10-year USDA Baseline.\nLead support of Commodity Procurement Program by providing economic analysis, market insights, and subject matter expertise to facilitate USDA purchases of dairy products.\n\nUniversity of California, Davis  Graduate Student Researcher 2017 - 2022\nAs a Graduate Student Researcher for Professor Daniel Sumner, analyzed growth in milk production and dairy product exports since Federal Milk Marketing Order reform and developed a model of inter-regional trade in farm milk and dairy products within the U.S.\nCongressional Budget Office  Assistant Analyst 2014 - 2016\nAs an Assistant Analyst in the Microeconomic Studies Division, contributed to reports on agricultural policy and energy use. Analyzed the role of reinsurance agreements in the Federal Crop Insurance Program and evaluated options to reduce the cost to the government. Assisted with reports on growing energy use in China, extraction of oil and gas on Federal lands, and government support for development of fuels and energy technologies."
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "CV",
+    "section": "",
+    "text": "Agricultural Marketing Service, Dairy Program, Economics Division  Agricultural Economist 2022 - Present\nAs an Agricultural Economist in the Economics Division of Dairy Program, provide detailed and thoughtful economic analysis of the markets for milk and dairy products.\n\nProvided extensive support to the Federal Milk Marketing Order rulemaking process, including economic analysis and subject matter expertise.\nLead Economics Division modeling efforts, including development and maintenance of the Dairy Program Regional Econometric Model, the Herd Size Model, Milk Production models, and the International Price model.\nDevelop monthly estimates of milk supply factors and commodity prices for the Dairy Interagency Commodity Estimates Committee, contributing to monthly World Agricultural Supply and Demand Estimates and 10-year USDA Baseline.\nLead support of Commodity Procurement Program by providing economic analysis, market insights, and subject matter expertise to facilitate USDA purchases of dairy products.\n\nUniversity of California, Davis  Graduate Student Researcher 2017 - 2022\nAs a Graduate Student Researcher for Professor Daniel Sumner, analyzed growth in milk production and dairy product exports since Federal Milk Marketing Order reform and developed a model of inter-regional trade in farm milk and dairy products within the U.S.\nCongressional Budget Office  Assistant Analyst 2014 - 2016\nAs an Assistant Analyst in the Microeconomic Studies Division, contributed to reports on agricultural policy and energy use. Analyzed the role of reinsurance agreements in the Federal Crop Insurance Program and evaluated options to reduce the cost to the government. Assisted with reports on growing energy use in China, extraction of oil and gas on Federal lands, and government support for development of fuels and energy technologies."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Davis Davis, CA  Ph.D. Agricultural and Resource Economics 2023  M.S. Agricultural and Resource Economics 2017\nWashington State University Pullman, WA  B.S. Economic Sciences 2014"
+  },
+  {
+    "objectID": "cv.html#research",
+    "href": "cv.html#research",
+    "title": "CV",
+    "section": "Research",
+    "text": "Research\nPublished Work\nSumner, D.A., T.M. Hanon, and S. Somerville. 2021. “Effects of the COVID-19 Pandemic on the Western Dairy Industry.” Western Economics Forum 19(1):33-50.\nSumner, D.A., T. Hanon, and W.A. Matthews. 2019. “Implication of Trade Policy Turmoil for Perennial Crops.” Choices 34(3).\nHanon, T. 2014. “The New Normal: A Policy Analysis of the US Renewable Fuel Standard.” SS-AAEA Journal of Agricultural Economics.\nContributions to Reports\nMatthews, W.A., D.A. Sumner, J. Medellín-Azuara, and T. Hanon. 2017. “Economics of the California Cut Flower Industry and Potential Impacts of Legal Cannabis.” University of California Agricultural Issues Center.\nCongressional Budget Office. 2017. Options to Reduce the Budgetary Costs of the Federal Crop Insurance Program. Washington DC.\nCongressional Budget Office. 2016. Potential Increases in Hurricane Damage in the United States: Implications for the Federal Budget. Washington DC."
+  },
+  {
+    "objectID": "cv.html#awards-and-recognition",
+    "href": "cv.html#awards-and-recognition",
+    "title": "CV",
+    "section": "Awards and Recognition",
+    "text": "Awards and Recognition\nUSDA Secretary’s Honors 2025\nMRP Undersecretary’s Award 2025\nAMS Administrator’s Award 2025\nPhi Beta Kappa 2014\nDairy Foods, 2nd Place Team, 5th Individual–National FFA Convention 2009"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "CV",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nExpertise in R Programming Language\nProficiency in Python and SAS Programming Languages\nProficiency working with Application Programming Interfaces\nProficiency in LaTeX and Quarto Typesetting and Publishing Systems\nProficiency in Microsoft Office Suite"
+  }
+]
