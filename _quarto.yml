@@ -11,10 +11,18 @@ website:
       - about.qmd
       - href: cv.qmd
         text: CV
-    right: 
+    tools:
       - icon: github
-        href: https://github.com/tmhanon
-        target: _blank
+        menu:
+          - text: My GitHub Account
+            href: https://github.com/tmhanon
+            target: _blank
+          - text: Source Code
+            href: https://github.com/tmhanon/tmhanon.github.io
+            target: _blank
+          - text: Report an Issue
+            href: https://github.com/tmhanon/tmhanon.github.io/issues/new
+            target: _blank
 
 format:
   html:
