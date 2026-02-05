@@ -8,7 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: now.qmd
+        text: Now
       - href: cv.qmd
         text: CV
     tools:
@@ -27,9 +28,9 @@ website:
 format:
   html:
     theme:
-      light: flatly
-      dark: darkly
-    css: styles.css
+      light: [flatly, styles.scss]
+      dark: [darkly, styles.scss]
+    respect-user-color-scheme: true
     toc: false
 
 
