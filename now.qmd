@@ -1,0 +1,26 @@
+---
+title: "What I'm doing now"
+date: today
+---
+
+This is a [`/now`](https://nownownow.com/about) page, attempting to give a sense of what I am up to right now. 
+
+## Work-wise
+
+I work for Dairy Program in the Agricultural Marketing Service of the US Department of Agriculture (yes, it's a mouthful). I am an agricultural economist and spend my days analyzing data, working on reports, and generally providing insights to support our operations. I enjoy what I do quite a lot. 
+
+I've recently been focusing a lot of my time on how we can do what we do better. In some cases this has been automating tasks that were previously done manually. In other cases it is looking at how we can use new tools to improve our existing output. And of course, there are always opportunities to do more and better modeling. 
+
+I am also working on revisions to the main paper from my dissertation, which is under a Revise \& Resubmit from Quantitative Economics. My coauthor, Pierre M&#233;rel, and I are just getting started on the revision process, so it is early days yet. 
+
+## Life-wise
+
+My family and I live in Yakima, Washington. My identical twin daughters just turned two, which is hard to believe. They are wild children, but I am enjoying everything about them. 
+
+## What I'm interested in at the moment
+
+Obviously, given the updates to this website, I've been getting interested in [Quarto](https://quarto.org/). I'm doing a lot with Quarto at work and trying to come up with new ways to produce reports. It's been interesting. 
+
+I've also been doing some R package development, which has been fun to dive into. See more at my [GitHub](https://github.com/tmhanon). 
+
+I have a few other irons in the fire project-wise, but I think it is too early to talk about those. 

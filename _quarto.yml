@@ -8,7 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: now.qmd
+        text: Now
       - href: cv.qmd
         text: CV
     tools:
