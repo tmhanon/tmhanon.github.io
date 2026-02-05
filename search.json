@@ -1,10 +1,31 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "now.html",
+    "href": "now.html",
+    "title": "What I’m doing now",
     "section": "",
-    "text": "About this site"
+    "text": "This is a /now page, attempting to give a sense of what I am up to right now."
+  },
+  {
+    "objectID": "now.html#work-wise",
+    "href": "now.html#work-wise",
+    "title": "What I’m doing now",
+    "section": "Work-wise",
+    "text": "Work-wise\nI work for Dairy Program in the Agricultural Marketing Service of the US Department of Agriculture (yes, it’s a mouthful). I am an agricultural economist and spend my days analyzing data, working on reports, and generally providing insights to support our operations. I enjoy what I do quite a lot.\nI’ve recently been focusing a lot of my time on how we can do what we do better. In some cases this has been automating tasks that were previously done manually. In other cases it is looking at how we can use new tools to improve our existing output. And of course, there are always opportunities to do more and better modeling.\nI am also working on revisions to the main paper from my dissertation, which is under a Revise & Resubmit from Quantitative Economics. My coauthor, Pierre Mérel, and I are just getting started on the revision process, so it is early days yet."
+  },
+  {
+    "objectID": "now.html#life-wise",
+    "href": "now.html#life-wise",
+    "title": "What I’m doing now",
+    "section": "Life-wise",
+    "text": "Life-wise\nMy family and I live in Yakima, Washington. My identical twin daughters just turned two, which is hard to believe. They are wild children, but I am enjoying everything about them."
+  },
+  {
+    "objectID": "now.html#what-im-interested-in-at-the-moment",
+    "href": "now.html#what-im-interested-in-at-the-moment",
+    "title": "What I’m doing now",
+    "section": "What I’m interested in at the moment",
+    "text": "What I’m interested in at the moment\nObviously, given the updates to this website, I’ve been getting interested in Quarto. I’m doing a lot with Quarto at work and trying to come up with new ways to produce reports. It’s been interesting.\nI’ve also been doing some R package development, which has been fun to dive into. See more at my GitHub.\nI have a few other irons in the fire project-wise, but I think it is too early to talk about those."
   },
   {
     "objectID": "index.html",
